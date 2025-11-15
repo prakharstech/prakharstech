@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prakhar</h1>
 <h3 align="center">I build backend systems & AI-powered tools</h3>
 
+<p align="center">
+  Open to collaborations, internships, jobs, research projects, and connecting with people passionate about building something impactful.
+</p>
 
 ---
 
