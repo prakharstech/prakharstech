@@ -30,36 +30,19 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 **PlanPal — AI-powered Google Calendar Assistant**  
-📌 *FastAPI + React + LangChain + Google OAuth*  
-- Natural language event creation & retrieval  
-- Reduced manual scheduling by **70%**  
-🔗 [GitHub](https://github.com/prakharstech/PlanPal) • [Live Demo](https://planpal.vercel.app)
+## 🚀 Projects
+• **PlanPal** – AI-powered assistant to manage Google Calendar events using natural language.  
+• **DocSentry** – RAG-based system that detects sensitive data (PII/PHI/financial) in PDFs.  
+• **Agentic Video Creator** – Autonomous pipeline that generates full short videos from a title prompt.  
+• **Blog Space** – Full-stack blog platform with auth, CRUD, uploads, likes, and social features.
 
 ---
 
-### 🔹 **DocSentry — AI for Sensitive Data Detection in PDFs**  
-📌 *FastAPI + LangChain + FAISS + OpenAI + HuggingFace*  
-- Detects PII / PHI / financial data with **95%+ precision**  
-- RAG-based contextual pipeline  
-🔗 [GitHub](https://github.com/prakharstech/DocSentry)
-
----
-
-### 🔹 **Agentic Video Creator — Autonomous Video Generation Pipeline**  
-📌 *Python + MoviePy + OpenAI + Stability + ElevenLabs + Azure TTS*  
-- Generates narration, visuals, and edited video from a title  
-- Cuts content creation time by **90%**  
-🔗 [GitHub](https://github.com/prakharstech/VideoCreation)
-
----
-
-### 🔹 **Blog Space — Full-stack Blog Platform**  
-📌 *React + Node.js + Express + MongoDB + JWT*  
-- Secure auth, CRUD, file uploads, likes, follows & comments  
-🔗 [GitHub](https://github.com/prakharstech/blogSpace) • [Live Demo](https://blog-space-alpha.vercel.app)
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prakharstech&show_icons=true&theme=radical" height="160" />
+  <img src="https://streak-stats.demolab.com?user=prakharstech&theme=radical" height="160" />
+</p>
 
 ---
 
