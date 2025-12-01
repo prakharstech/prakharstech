@@ -45,13 +45,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakharstech&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakharstech&layout=compact&theme=radical" height="160" />
-</p>
-
----
 
 ## 🔗 Connect With Me
 
