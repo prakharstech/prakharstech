@@ -38,11 +38,13 @@
 ---
 
 ## 🚀 Projects
-• **RidePulse** – Self-Healing Dynamic Pricing Engine.
-• **PlanPal** – AI-powered assistant to manage Google Calendar events using natural language.  
-• **DocSentry** – RAG-based system that detects sensitive data (PII/PHI/financial) in PDFs.  
-• **Agentic Video Creator** – Autonomous pipeline that generates full short videos from a title prompt.  
-• **Blog Space** – Full-stack blog platform with auth, CRUD, uploads, likes, and social features.
+
+- **RidePulse** – Self-Healing Dynamic Pricing Engine.
+- **PlanPal** – AI-powered assistant to manage Google Calendar events using natural language.
+- **DocSentry** – RAG-based system that detects sensitive data (PII/PHI/financial) in PDFs.
+- **Agentic Video Creator** – Autonomous pipeline that generates full short videos from a title prompt.
+- **Blog Space** – Full-stack blog platform with auth, CRUD, uploads, likes, and social features.
+
 
 ---
 
