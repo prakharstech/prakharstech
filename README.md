@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/Render-333?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
 
@@ -40,6 +41,7 @@
 ## 🚀 Projects
 
 - **RidePulse** – Self-Healing Dynamic Pricing Engine.
+- **Flash-Sale-Engine** – High-concurrency backend handling massive traffic spikes with Node.js & RabbitMQ.
 - **PlanPal** – AI-powered assistant to manage Google Calendar events using natural language.
 - **DocSentry** – RAG-based system that detects sensitive data (PII/PHI/financial) in PDFs.
 - **Agentic Video Creator** – Autonomous pipeline that generates full short videos from a title prompt.
